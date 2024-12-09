@@ -73,7 +73,7 @@ form{
         color: #333;
         text-align: center;
         background: linear-gradient(rgba(247, 4, 85, 0.9), rgba(247, 4, 85, 0.9)), 
-                    url(c54fa1235e6a5abee8c4e8e04aeba201.jpg) no-repeat center center fixed;
+                    url('c54fa1235e6a5abee8c4e8e04aeba201.jpg') no-repeat center center fixed;
         background-size: cover;
     }
     
