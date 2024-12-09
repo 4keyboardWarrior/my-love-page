@@ -261,7 +261,7 @@ form{
         height: 20px;
         width: 20px;
         border-radius: 50%;
-        background: rgb(255, 255, 255);
+        background: #ffffff;
         cursor: pointer;
     }
     .white{
