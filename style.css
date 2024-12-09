@@ -71,7 +71,7 @@ form{
         margin: 0;
         padding: 0;
         color: #333;
-        text-align: center;
+        text-align: center !important;
         background: linear-gradient(rgba(247, 4, 85, 0.9), rgba(247, 4, 85, 0.9)), 
                     url(/c54fa1235e6a5abee8c4e8e04aeba201.jpg) no-repeat center center fixed;
         background-size: cover;
